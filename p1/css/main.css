@@ -4,7 +4,17 @@ h1 {
 }
 
 
-ul {
+a:visited {
+  color: #028a0f;
+
+}
+
+h2 {
+  font-size: 60px;
+
+}
+
+body {
     font-family: Courier;
     color: #028a0f;
     font-size: 30px;
