@@ -13,3 +13,8 @@ body {
     color: blue;
 
 }
+
+a:visited {
+  color: lightblue;
+
+}
