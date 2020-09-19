@@ -1,6 +1,8 @@
 h1 {
     font-size: 90px;
     color: #028a0f;
+    background-color: #ed9121;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -11,6 +13,9 @@ a:visited {
 
 h2 {
   font-size: 50px;
+  color: #028a0f;
+  background-color: #ed9121;
+  font-family: 'Montserrat', sans-serif;
 
 }
 
