@@ -1,15 +1,18 @@
 h1 {
     font-size: 50px;
     color: darkblue;
+    font-family: 'Montserrat', sans-serif;
 }
 
 ul {
     font-size: 30px;
     color: lightblue;
+    font-family: 'Montserrat', sans-serif;
 
 }
 
 body {
     color: blue;
+    font-family: 'Montserrat', sans-serif;
 
 }
