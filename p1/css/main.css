@@ -13,12 +13,13 @@ h2 {
 }
 
 a:visited {
-  color: #ed9121;
+  color: #028a0f;
 }
 
 p {
     font-family: 'Montserrat', sans-serif;
-    color: #028a0f;
+    color: #10d4c8;
     font-size: 30px;
-    background-color: #2fd2cd;
+    background-color: #ed9121;
+
 }
