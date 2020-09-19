@@ -1,22 +1,16 @@
 h1 {
     font-size: 90px;
-    color: #10d4c8;
-    background-color: #ed9121;
-    font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
   font-size: 50px;
-  color: #10d4c8;
-  background-color: #ed9121;
-  font-family: 'Montserrat', sans-serif;
 }
 
 a:visited {
   color: #028a0f;
 }
 
-p {
+body {
     font-family: 'Montserrat', sans-serif;
     color: #10d4c8;
     font-size: 30px;
