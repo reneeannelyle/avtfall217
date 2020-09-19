@@ -5,18 +5,15 @@ h1 {
     font-family: 'Montserrat', sans-serif;
 }
 
-
-a:visited {
-  color: red;
-
-}
-
 h2 {
   font-size: 50px;
   color: #028a0f;
   background-color: #ed9121;
   font-family: 'Montserrat', sans-serif;
+}
 
+a:visited {
+  color: red;
 }
 
 body {
