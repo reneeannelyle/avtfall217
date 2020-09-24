@@ -10,6 +10,10 @@ ul {
 
 }
 
+img {
+  max-width: 100%;
+}
+
 body {
   background-color: black;
   font-family: 'Roboto Slab', serif;
