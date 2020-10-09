@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+main {
+  width: 130vw;
+  margin: -50px -15vw;
+}
+.shape1 {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
+}
+.shape2 {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
+}
+.shape3 {
+  background-color: purple;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
+}
