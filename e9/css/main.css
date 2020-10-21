@@ -12,18 +12,105 @@ main {
 .shape1 {
   background-color: red;
   width: 200px;
+  height: 50px;
+  margin: 50px;
+  float: left;
+  transform: rotate(20deg);
+}
+.shape2 {
+  background-color: green;
+  width: 200px;
+  height: 50px;
+  margin: 50px;
+  float: left;
+  transform: rotate(50deg);
+}
+.shape3 {
+  background-color: purple;
+  width: 200px;
+  height: 50px;
+  margin: 50px;
+  float: left;
+}
+
+.shape4 {
+  background-color: red;
+  width: 200px;
   height: 200px;
   margin: 50px;
   float: left;
 }
-.shape2 {
+.shape5 {
   background-color: green;
   width: 200px;
   height: 200px;
   margin: 50px;
   float: left;
 }
-.shape3 {
+.shape6 {
+  background-color: purple;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
+}
+.shape7 {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
+}
+.shape8 {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
+}
+.shape9 {
+  background-color: purple;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
+}
+.shape10 {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
+}
+.shape11 {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
+}
+.shape12 {
+  background-color: purple;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
+}
+.shape13 {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
+}
+.shape14 {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
+}
+.shape15 {
   background-color: purple;
   width: 200px;
   height: 200px;
