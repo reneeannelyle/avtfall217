@@ -1,7 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
 h1 {
     font-size: 40px;
     color: white;
 
+}
+
+h2 {
+  color:white;
+  font-size: 30px;
 }
 
 ul {
@@ -15,6 +24,44 @@ img {
 }
 
 body {
-  background-color: black;
+  background-color: lightblue;
   font-family: 'Roboto Slab', serif;
+}
+
+li {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin-bottom: 10px;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 75vw;
+  margin: 25px auto;
+}
+
+main {
+  width: 75vw;
+  margin: 25px auto;
+  display: flow-root;
+}
+
+img {
+  max-width: 100%;
+}
+
+@media screen and (min-width: 929px) {
+  .col {
+    width: 50%;
+    float: left;
+  }
 }
