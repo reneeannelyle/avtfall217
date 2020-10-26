@@ -5,7 +5,11 @@ body {
   margin: 0;
 }
 .board {
-  width: 800px;
+  width: 820px;
+  display: flow-root;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
 }
 .red, .black {
   width: 100px;
