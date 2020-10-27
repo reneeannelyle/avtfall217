@@ -22,3 +22,33 @@ body {
 .black {
   background-color: black;
 }
+
+.one {
+  background-color: magenta;
+  width: 100px;
+}
+
+.two {
+  background-color: magenta;
+  width: 600px;
+}
+
+.three {
+  background-color: magenta;
+  width: 500px;
+}
+
+.four {
+  background-color: magenta;
+  width: 300px;
+}
+
+.five {
+  background-color: magenta;
+  width: 200px;
+}
+
+.six {
+  background-color: magenta;
+  width: 900px;
+}
