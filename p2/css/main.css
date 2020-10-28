@@ -1,3 +1,105 @@
 img {
   max-width: 50%;
 }
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+h2 {
+  font-size: 50px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+li {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 35px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-align: left;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 75vw;
+  margin: 25px auto;
+}
+h1 {
+  font-size: 50px;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+
+main {
+  width: 75vw;
+  margin: 25px auto;
+  display: flow-root;
+}
+
+img {
+  max-width: 100%;
+}
+
+@media screen and (min-width: 929px) {
+  .music {
+    width: 50%;
+    float: left
+  }
+}
+
+.sub2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.container {
+  width: 63px;
+  height: 63px;
+  float: left;
+}
+
+.title {
+  font-size: 70px;
+  margin: 0 auto;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.sub {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+  font-size: 25px;
+  margin: 0 auto;
+}
+
+.homepics {
+  width: 500px;
+  height: 500px;
+}
+
+.concert {
+  width: 1440px;
+  height: 959px;
+}
+
+.driveslow {
+  font-size: 40px;
+}

@@ -23,7 +23,103 @@ body {
   background-color: black;
 }
 
-.shape1{
-  background-color: black;
-  width: 100px;
+.column {
+  width: 820px;
+  display: flow-root;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+}
+
+
+.two {
+  width: 700px;
+  height: 10px;
+}
+
+.three {
+  width: 700px;
+  height: 20px;
+  background-color: #83A9CE;
+}
+
+.four {
+  width: 700px;
+  height: 10px;
+}
+
+.five {
+  width: 700px;
+  height: 10px;
+}
+
+.co {
+  width: 700px;
+  height: 500px;
+  background-color: #83A9CE;
+}
+
+header, footer {
+  width: 700px;
+  height: 100px;
+  background-color: #83A9CE;
+}
+
+.blog {
+  width: 800px;
+  display: flow-root;
+  margin-left: 25px;;
+  margin-right: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.blog1 {
+  width: 800px;
+  height: 150px;
+  background-color: lightblue;
+}
+
+.blog2 {
+  width: 800px;
+  height: 100px;
+}
+
+.blog3 {
+  width: 600px;
+  height: 400px;
+  background-color: lightblue;
+}
+
+.blog4 {
+  width: 800px;
+  height: 10px;
+}
+
+.blog5 {
+  width: 600px;
+  height: 50px;
+  background-color: lightblue;
+}
+
+.blog6 {
+  width: 800px;
+  height: 100px;
+}
+
+.blog7 {
+  width: 600px;
+  height: 400px;
+  background-color: lightblue;
+}
+
+.blog8 {
+  width: 800px;
+  height: 10px;
+}
+
+.blog9 {
+  width: 600px;
+  height: 50px;
+  background-color: lightblue;
 }
