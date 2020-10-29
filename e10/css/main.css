@@ -67,59 +67,45 @@ header, footer {
 
 .blog {
   width: 800px;
-  display: flow-root;
-  margin-left: 25px;;
-  margin-right: 25px;
   margin-top: 25px;
+  margin-left: 25px;
   margin-bottom: 25px;
+  display: flow-root;
 }
 
-.blog1 {
-  width: 800px;
-  height: 150px;
+.recspace {
   background-color: lightblue;
-}
-
-.blog2 {
   width: 800px;
   height: 100px;
+  margin-bottom: 50px;
 }
-
-.blog3 {
-  width: 600px;
-  height: 400px;
+.box {
   background-color: lightblue;
+  width: 640px;
+  height: 400px;
+  margin-bottom: 25px;
+  float:left;
 }
 
-.blog4 {
-  width: 800px;
-  height: 10px;
+.smallspace {
+  background-color: lightblue;
+  width: 150px;
+  height: 200px;
+  margin-left: 10px;
+  float: left;
 }
 
-.blog5 {
-  width: 600px;
+.rectangle {
+  width: 640px;
   height: 50px;
   background-color: lightblue;
+  border: 5px 0px;
+  float: left;
 }
 
-.blog6 {
+.bigspace {
   width: 800px;
-  height: 100px;
-}
-
-.blog7 {
-  width: 600px;
-  height: 400px;
-  background-color: lightblue;
-}
-
-.blog8 {
-  width: 800px;
-  height: 10px;
-}
-
-.blog9 {
-  width: 600px;
-  height: 50px;
-  background-color: lightblue;
+  height: 55px;
+  margin: 25px auto;
+  float: left;
 }
