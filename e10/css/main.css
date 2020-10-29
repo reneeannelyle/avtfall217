@@ -24,7 +24,7 @@ body {
 }
 
 .column {
-  width: 820px;
+  width: 800px;
   display: flow-root;
   margin-left: auto;
   margin-right: auto;
@@ -40,7 +40,7 @@ body {
 .three {
   width: 700px;
   height: 20px;
-  background-color: #83A9CE;
+  background-color: #EDD382;
 }
 
 .four {
@@ -50,19 +50,22 @@ body {
 
 .five {
   width: 700px;
-  height: 10px;
+  height: 510px;
 }
 
-.co {
-  width: 700px;
-  height: 500px;
-  background-color: #83A9CE;
+.co1, .co2, .co3 {
+    width: 226px;
+    height: 500px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: #FC9E4F;
+    float: left;
 }
 
 header, footer {
   width: 700px;
   height: 100px;
-  background-color: #83A9CE;
+  background-color: #6EA4BF;
 }
 
 .blog {
@@ -74,13 +77,13 @@ header, footer {
 }
 
 .recspace {
-  background-color: lightblue;
+  background-color: #BDD5EA;
   width: 800px;
   height: 100px;
   margin-bottom: 50px;
 }
 .box {
-  background-color: lightblue;
+  background-color: #495867;
   width: 640px;
   height: 400px;
   margin-bottom: 25px;
@@ -88,7 +91,7 @@ header, footer {
 }
 
 .smallspace {
-  background-color: lightblue;
+  background-color: #C38D94;
   width: 150px;
   height: 200px;
   margin-left: 10px;
@@ -98,7 +101,7 @@ header, footer {
 .rectangle {
   width: 640px;
   height: 50px;
-  background-color: lightblue;
+  background-color: #577399;
   border: 5px 0px;
   float: left;
 }
