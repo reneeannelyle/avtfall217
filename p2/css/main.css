@@ -79,8 +79,18 @@ img {
   margin: 0 auto;
 }
 
+a {
+ text-decoration: none;
+}
+
+a:visited {
+ color: black;
+}
 a:hover {
-  text-decoration: underline;
+ color: #0048D0;
+}
+a:active {
+ color: #0048D0;
 }
 
 .sub {
