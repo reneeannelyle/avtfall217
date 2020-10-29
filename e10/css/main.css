@@ -112,3 +112,26 @@ header, footer {
   margin: 25px auto;
   float: left;
 }
+
+h1 {
+  font-size: 40px;
+  color: lightpink;
+  margin-left: 25px;
+}
+
+ul {
+    font-size: 30px;
+    color: white;
+    margin-left: 25px;
+
+}
+
+a:visited {
+ color: black;
+}
+a:hover {
+ color: lightpink;
+}
+a:active {
+ color: lightpink;
+}
